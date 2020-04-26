@@ -2,7 +2,7 @@
 
 # Naiblog
 
-![ Template Cover Image](https://imgur.com/uBwoT1T)
+![ Template Cover Image](https://i.imgur.com/uBwoT1T.png)
 
 See the [demo here](http://naiblog.xyz/).
 
@@ -10,7 +10,7 @@ See the [demo here](http://naiblog.xyz/).
 
 A template for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with the same  appearance.
 
-![Jekflix Screenshot Image](https://imgur.com/undefined)
+![Jekflix Screenshot Image](https://i.imgur.com/qlTtP6m.png)
 
 ## Features
 
@@ -99,7 +99,7 @@ Naiblog Template allows you to personalize your site with several settings. See 
 For advanced theme customization, check the directory `_sass` for style files.
 
 
-![](https://imgur.com/wIN8Nbf)
+![](https://i.imgur.com/wIN8Nbf.png)
 
 Special thanks to [Thiago Rossener](https://github.com/thiagorossener) for the site generator template
 
