@@ -32,7 +32,7 @@ A template for Jekyll inspired by Netflix panel for who loves movies and series 
 - Home page pagination 
 - Posts sidebar
 - Paginated posts
-- "Before you go" modal(optional)*
+- "Before you go" modal
 - Post recommendation
 - Netlify CMS ready
 

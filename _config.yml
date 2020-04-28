@@ -1,26 +1,26 @@
 # Site Settings
 name: NaiBlog
-title: Naiblog | Binge Read!
-description: Love,Laugh,Live,Learn and never stop dreaming
+title: NaiBlog | Insightful thoughts.
+description: NaiBlog is a template for Jekyll inspired by Netflix and made by Jeff Ubayi.
 tags:
   - blog
-  - society
-  - entertainment
-  - nairobi
-  - netflix
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
 email: jeffubayi@gmail.com
 disqus_username: jeffubayi
-show_hero: true
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: ubeezy
-facebook_username:
-twitter_username: jeffubayi
-instagram_username: king_carter69
-linkedin_username: jeff-ubayi-02334a180
-medium_username: jeffubayi
+github_username: 'jeffubayi'
+facebook_username: facebook_username
+twitter_username: 'jeffubayi'
+instagram_username: 'king_carter69'
+linkedin_username: linkedin_username
+medium_username: 'jeffubayi'
 
 
 # Theme Settings
@@ -41,7 +41,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-149007487-1"
+google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 
 

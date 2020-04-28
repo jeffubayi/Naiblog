@@ -1,0 +1,12 @@
+name: NaiBlog
+title: NaiBlog | Insightful thoughts.
+description: NaiBlog is a template for Jekyll inspired by Netflix and made by Jeff Ubayi.
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+email: jeffubayi@gmail.com
+disqus_username: jeffubayi
