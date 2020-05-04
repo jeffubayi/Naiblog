@@ -9,7 +9,7 @@ optimized_image: /assets/img/uploads/photo-1584447128309-b66b7a4d1b63.jpg
 category: "{{slug}}"
 tags:
   - peace
-  - namastay
+  - namaste
   - self love
 author: Roxie Macrina
 paginate: false
