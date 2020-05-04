@@ -6,7 +6,7 @@ subtitle: At the end of the day, all we have left is who we are.
 description: Self love is giving yourself some of the love you give to others.
 image: /assets/img/uploads/meditation-print-rainbow-spiral-art-print-rainbow-fractal-wall-art-woman-print-woman-silhouette-sacred-geometry-art-spiritual-poster.jpg
 optimized_image: /assets/img/uploads/photo-1522403236043-29876aa85962.jpg
-category: "{{slug}}"
+category: "Health"
 tags:
   - peace
   - namaste
