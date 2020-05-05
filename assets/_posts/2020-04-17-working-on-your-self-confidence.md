@@ -9,8 +9,8 @@ image: /assets/img/uploads/photo-1546822780-fb64a585f8f0.jpeg
 optimized_image: /assets/img/uploads/photo-1546822780-fb64a585f8f0.jpeg
 category: tips
 tags:
-  - "#confidence"
-  - "#loveyourself"
+  - "confidence"
+  - "loveyourself"
 author: Jeff Ubayi
 paginate: true
 ---
