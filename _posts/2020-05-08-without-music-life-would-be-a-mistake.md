@@ -13,7 +13,7 @@ tags:
   - creativity
   - music
 author: Jeff Ubayi
-paginate: false
+paginate: true
 ---
 As you read this post, you might be listening to your favorite playlist through your useful noise-cancelling headset. Heck, I have Kendrick Lamar playing in the background as I write.
 
