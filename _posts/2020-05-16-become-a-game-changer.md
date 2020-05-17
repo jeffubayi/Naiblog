@@ -1,5 +1,5 @@
 ---
-date: 2020-05-17 02:24:03
+date: 2020-05-17T02:24:03.000Z
 layout: post
 title: Become a Game Changer
 subtitle: Don't just play the game of life, change the game.
@@ -12,7 +12,7 @@ tags:
   - positive
   - habits
 author: Jeff Ubayi
-paginate: true
+paginate: false
 ---
 If you're reading this, I hope God opens incredible doors for your life this year. Greatness is upon you. You must believe it though
 
