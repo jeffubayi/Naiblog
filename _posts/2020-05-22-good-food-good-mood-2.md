@@ -9,9 +9,7 @@ optimized_image: /assets/img/uploads/food.jpg
 category: diet
 tags:
   - yummy
-  - delicious
-  - yummyyummy
-  - goodfood
+  - eatout
   - goodmood
 author: Roxie Macrina
 paginate: true
