@@ -5,7 +5,7 @@ title: Good Food,Good Mood.
 subtitle: Food is happiness.
 description: Doesn't good food just make you happy?
 image: /assets/img/uploads/chicken-and-cauliflower-“rice”-bowls-are-quick-and-perfect-for___-2-.jpg
-optimized_image: /assets/img/uploads/chicken-and-cauliflower-“rice”-bowls-are-quick-and-perfect-for___-2-.jpg
+optimized_image: /assets/img/uploads/food.jpg
 category: diet
 tags:
   - yummy
