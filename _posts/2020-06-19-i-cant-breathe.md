@@ -12,7 +12,7 @@ tags:
   - Racism
   - African
 author: Jeff Ubayi
-paginate: true
+paginate: false
 ---
 
 
