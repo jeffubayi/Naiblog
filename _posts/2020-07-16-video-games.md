@@ -14,18 +14,30 @@ tags:
 author: Jeff Ubayi
 paginate: true
 ---
-Ever since I was a kid, I have always playing video games, the zone was cool pumping dopamine right out my body. 
-## Types of game: 
-- fb,basketball
-evolution of VG
- - more pixels
-Video games have grown to become  virtual with the upcome of Artificial Inteligence
-![](https://images.unsplash.com/photo-1592478411213-6153e4ebc07d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
+A **video game** is an electronic game that involves interaction with a user interface to generate visual feedback on a two- or three-dimensional video display device such as a touchscreen, virtual reality headset or monitor/TV set. Since the 1980s, video games have become an increasingly important part of the entertainment industry, and whether they are also a form of art is a matter of dispute.
+
+Ever since I was a kid, I have always playing video games, the zone was cool pumping dopamine right out my body.Choosing from the list of games to play was like a ride in the park, fascinating.
+
+## Types of game:
+Games have revolutionized to fit different life categories. From sports to Army missions to motor sports. Its all based on competition.
+This has lead to an increase in Electronic sports game plays from Football,basketball and so more.Depending on what you like, you wont miss a fit for a thrill in the game type you love.
+Games have also been modified to change in aspects such as Easter eggs,cheats,downloadable content and glitches.All this is achieved from the software developers behind the game engineering.
+
 
 ## Consoles
+
+  The input device used for games, the game controller, varies across platforms.
+  Video games have grown to become  virtual with the upcoming rise of Artificial Intelligence
+  ![](https://images.unsplash.com/photo-1592478411213-6153e4ebc07d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
+
+ Common controllers include gamepads, joysticks, mouse devices, keyboards, the touchscreens of mobile devices, or even a person's body, using a Kinect sensor. Players view the game on a display device such as a television or computer monitor or sometimes on virtual reality head-mounted display goggles.
+
+There are often game sound effects, music and voice actor lines which come from loudspeakers or headphones. Some games in the 2000s include haptic, vibration-creating effects, force feedback peripherals and virtual reality headsets.
+
 ![](https://images.unsplash.com/photo-1580327344181-c1163234e5a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
- - from nintendo to ps5
-- rivalry among ps xbox
+
+Rivalry among the big Game console industries, Sony's PS and Microsoft's Xbox have the major impact in manufacture and distribution of consoles.
+Both have standards of game play mode with a pixel perfect interface containing similar games.
 
 ## Effects to players
 
@@ -41,4 +53,7 @@ Their interactivity can stimulate learning, allowing individuals to experience n
 
 I must admit that video games may make you lazy, since you are only starring at a screen for 4 hours is equivalent to being a potatoe couch.
 
-#Conclusion:
+# Conclusion:
+Video games has revolutionized this century a lot both benefits and setbacks.I personally am a Video gamer and enjoy playing in my free time.
+For more deeper look at the video game industy here is a video to tell it all.
+[![video](https://img.youtube.com/vi/pLAi_cmly6Q/0.jpg)](https://www.youtube.com/watch?v=pLAi_cmly6Q)
