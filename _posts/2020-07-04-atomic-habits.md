@@ -6,7 +6,7 @@ subtitle: Tiny Changes, Remarkable Results.
 description: An easy and proven way to build good habits and break bad ones
 image: /assets/img/uploads/photo-1542596081-6d3eaca5240c.jpg
 optimized_image: /assets/img/uploads/0_ieyexfekx2acqjox.jpg
-category: "{{slug}}"
+category: "Book Review"
 tags:
   - Resolutions
   - Growth
