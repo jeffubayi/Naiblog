@@ -19,7 +19,7 @@ paginate: true
 
 Technology wizards have masterminded a new form of capitalism, and humanity is now the raw resource feeding the machine. Powerful, hidden artificial intelligence tasked with hijacking our attention is tearing apart social norms, jeopardizing truth and democracy, and putting civilization on a programmed path toward self-destruction.
 
-Social media is both good and bad at the same time,it connects us and at the same time tares us apart from socializing without our devices.
+Social media is both good and bad at the same time,it connects us and at the same time tares us apart from socializing without our devices.There is a trinity of **social media**, **algorithmic power** and **surveillance** turning us, the consumers, into the product.
 
 ![](https://images.unsplash.com/photo-1573152143286-0c422b4d2175?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)
 
@@ -34,5 +34,10 @@ As most of the world continues to be home-bound, Netflix has placed audiences in
 
 [![Audi R8](http://img.youtube.com/vi/4dqNWkqF62o/0.jpg)](https://www.youtube.com/watch?v=4dqNWkqF62o "social Dillema")
 
+## Conclusion
 Watching this as someone who studies the Internet and its intricacies offered up some pretty vivid flashbacks to the then-seemingly mundane theories and literary works in the form of now-confronting realities.
+
+Social media is always going to be a dozen steps ahead of you, even when you think you may have cracked the formula for social networking.We just have to make it more humane for us and the next generation.
+
+Thanks for the read and I hope I didn't shunt you away from reading **Naiblogs**. Its more of an informative site don't you agree ?
 
