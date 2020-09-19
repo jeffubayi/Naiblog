@@ -12,8 +12,9 @@ tags:
   - Dilemma
   - Tech
 author: Jeff Ubayi
-paginate: true
+paginate: false
 ---
+
 >“Behind your screen are a thousand engineers using the world’s most powerful computers to try to get you to spend more time on your phone.”
 –  Tristan Harris, Co-Founder, The Center for Humane Technology
 
