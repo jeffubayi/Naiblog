@@ -12,7 +12,7 @@ tags:
   - Dilemma
   - Tech
 author: Jeff Ubayi
-paginate: false
+paginate: true
 ---
 
 >“Behind your screen are a thousand engineers using the world’s most powerful computers to try to get you to spend more time on your phone.”
