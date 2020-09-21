@@ -31,6 +31,8 @@ Same applies to online notifications.
 
 ![](https://images.unsplash.com/photo-1600096194534-95cf5ece04cf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjc5NjV9&auto=format&fit=crop&w=500&q=60)
 
+These sites aren’t primarily driven by algorithms or profit motives. Instead, they twist and exploit the open internet’s positive ability to connect like-minded people. When harmful content surfaces on them, it raises complex moderation questions for domain hosts and web infrastructure providers — a separate set of powerful companies that have completely different business models from Facebook.
+
 As most of the world continues to be home-bound, Netflix has placed audiences in the ultimate social dilemma by streaming **The Social Dilemma**. This Docu series is the reason behind writing this article as it gives the invisible part of how technology is shaping the society.
 
 [![Audi R8](http://img.youtube.com/vi/4dqNWkqF62o/0.jpg)](https://www.youtube.com/watch?v=4dqNWkqF62o "social Dillema")
@@ -40,5 +42,6 @@ Watching this as someone who studies the Internet and its intricacies offered up
 
 Social media is always going to be a dozen steps ahead of you, even when you think you may have cracked the formula for social networking.We just have to make it more humane for us and the next generation.
 
-Thanks for the read and I hope I didn't shunt you away from reading **Naiblogs**. Its more of an informative site don't you agree ?
+This isn’t to let social networks off the hook. Nor is it an effort to make the problem feel so complicated that everyone just throws their hands up and walks away from it.
+Thanks for the read.
 
