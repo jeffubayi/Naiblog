@@ -15,7 +15,7 @@ author: Jeff Ubayi
 paginate: true
 ---
 
->This article was first published at https://untoldlivesofwomen.blogspot.com/
+>This article was originally published at [untoldlivesofwomen.blogspot.com](https://untoldlivesofwomen.blogspot.com/)
 
 Writing this post I am reminded that nobody is guaranteed a tomorrow. Each breath we take could be our last. Its just through the grace of our creator that we are alive, hence we have to take advantage of the time you have now. We have time while we are still alive to achieve all we hope for. 
 
