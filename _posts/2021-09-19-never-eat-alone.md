@@ -27,6 +27,7 @@ To succeed, you can’t rely on hard work and talent alone—you also need other
 Anyone can become a good networker. Only a few people are natural networkers, the rest of us have to practice. The best way’s to overcome shyness and becoming better at networking are: Constantly learning from the best experts out there and practicing every day.
 
 ### 1. Generosity and Loyalty are the foundations of good networking.
+![](https://media.istockphoto.com/photos/parent-and-child-hands-handing-white-flower-picture-id924680480?b=1&k=20&m=924680480&s=170667a&w=0&h=EnkqeoOU1gaLAa9ZMSuo8ijOPruN82bbHtvkR5V-mg0=)
 
 > “How can I help others?”
 
@@ -37,6 +38,7 @@ That is the main lemma of a good networker. A good networker doesn’t think lik
 **If you are interested in networking with a particular person, learn more about that person**. Do your homework, perform some research about that person and see how you could help that person out. Doing so will give you something interesting to offer when you meet that person.
 
 ### 2. Grow relationships without keeping a score
+![](https://media.istockphoto.com/photos/helping-each-other-to-the-top-of-mountain-picture-id1284552883?b=1&k=20&m=1284552883&s=170667a&w=0&h=nugZv1LnBbpBS4LfQRaMKzrCSvd3u9fQARTfZDa5m9k=)
 
 **Don’t see and treat relationships as a bank account. Relationships are no short-time investments**. If you expect to have favors returned instantly, you will not become a good networker. Relationships don’t “get used up” like when you slice a pizza, they are more complicated, you should think about them more like a muscle. **The more you “use” them, the more they grow and strengthen.**
 
@@ -45,6 +47,7 @@ Selfish people who are neither generous nor helpful to other people will push ot
 Being generous can mean many things. Time is the most valuable asset for many people if you dedicate some time to help a person, **even if it is just some minutes, the potential payback could be a life-long relationship**.
 
 ### 3. Build a network before you need it
+![](https://media.istockphoto.com/photos/developing-a-relationship-machines-building-word-picture-id178747210?b=1&k=20&m=178747210&s=170667a&w=0&h=p7z_fbJOic2SCvKE32Aw2o3igP7Vxs0kKWTSzYgqkMk=)
 
 The typical strategy of a person who is bad at networking is, starting to look for a network when there is a need for it. This reasoning is once again typical of the selfish mindset. It’s like doing favors only because you expect something in return. Don’t try to get insurance after you crashed your car.
 
@@ -57,32 +60,38 @@ Time is limited, but you don’t need to spend high amounts of time to build up 
 Focus on factors or activities which have the potential to turn the other person into a trusted acquaintance, so called relationship glues. Relationship glue can anything you both enjoy to do, ideally a shared interest or activity.
 
 ### 4 .Be sociable
+![](https://media.istockphoto.com/photos/group-of-people-activists-protesting-on-streets-women-march-and-picture-id1282328162?b=1&k=20&m=1282328162&s=170667a&w=0&h=YMeSAqD_XFVpRyI37PwRC8wAGCjjd2J0y9Bqld8xQQU=)
 
 To build as many potential good relationships as possible, it goes without saying that you need to be sociable. A CEO might meet and talk 50 people every day. This is the normal thing for any person trying to build a network.
 
 Politicians like Hillary Clinton who have to be great networkers might get up at 5 am, make all phone calls, deliver speeches, attend cocktail parties and visit people at their homes, all that on a single day.
 
 ### 5.Super-connectors
+![](https://images.unsplash.com/photo-1617176892789-6b7d8ea3e365?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGJvc3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60)
 
 Have you ever been referred to a person who might know someone you want to contact? Perhaps that person is a super-connector. Super-connectors are people who know lots of people. They are known for having hundreds or thousands of contacts and their contacts often come from different walks of life.
 
 **If you are not a super-connector yourself, you should try to build up a good relationship with one. You can benefit strongly from knowing such a person.**
 
 ### **6.**Sorting out the best people to network with
+![](https://media.istockphoto.com/photos/searching-for-the-right-person-concept-stand-out-from-the-crowd-and-picture-id825493738?b=1&k=20&m=825493738&s=170667a&w=0&h=wMJZW6WU22DxEq8Cmsjr4Jy14jOGThIBWP5J6BEWO3Y=)
 
 A good networker has to prioritize his time. You will not benefit equally from any individual. You have “to sort out the wheat from the chaff” and for example before having a dinner with anyone, ask yourself the question: “Would I benefit from spending an hour with this person?” In other words, has the person you are going to dedicate time to something interesting to say. Of course, other people are sorting you out too. That’s why it is important that you have something to say or embody something.
 
 ### 7. Have Mentors and surround yourself with successful people
+![](https://media.istockphoto.com/photos/female-professional-giving-presentation-picture-id1265176774?b=1&k=20&m=1265176774&s=170667a&w=0&h=fZoq3Ov1mwdJme0FfZEokhYcoE60mlQoInzM0fEsKn4=)
 
 **People learn through osmosis.** Learning directly from another person is a superior way to learn. That’s why almost all successful people have or had mentors at some part of their lives. One not only learns from a mentor’s words, but also from his actions, movements, behavior, and so many other characteristics.
 
 > Peers are also very important. **In the same way than mentors, people we hang out with have a strong influence on us**. There have been many studies which found that people’s achievement is significantly affected by their peer group. Surround yourself with successful people if you want to become successful yourself.
 
 ### 8.The best small talk is avoiding small talk
+![](https://media.istockphoto.com/photos/two-bubble-talk-or-comment-sign-symbol-on-blue-background-picture-id1304849823?b=1&k=20&m=1304849823&s=170667a&w=0&h=WyxXj3Pj8gAD-9UP3bijhKuKFW2_1kCamAa-XbJrpxQ=)
 
 **Instead of trying to fill out the time with banal or boring small talk, be as honest and open as possible to the other person**. Doing so will make the encounter interesting, and the other person will look forward to the next meeting.
 
 ### 9. To capture interest, have something to say and embody a message
+![](https://media.istockphoto.com/photos/concept-deep-learning-mindfulness-psychology-picture-id1256602998?b=1&k=20&m=1256602998&s=170667a&w=0&h=uKXnmpmILGiafLUuDRgzY9vPf_yYNIHtNEa9aXD2f7E=)
 
 If you want other people to be interested in you, you have to have something interesting to say or even better, embody a message. **Having something to say means being able to hold and intelligent discussion**. That discussion can either be about your area of expertise or a wide variety of topics.
 
@@ -91,6 +100,7 @@ Even more powerful is the embodiment of a message. **If you stand for something
 There is no message blueprint for everyone, though, you could embody a message through skill, habit or idea. Anything will do as long as you have a great amount of knowledge and passion about your message.
 
 ### 10. Create your own personal brand
+![](https://media.istockphoto.com/photos/branding-related-words-written-wood-blocks-sitting-on-wood-surface-in-picture-id1251688090?b=1&k=20&m=1251688090&s=170667a&w=0&h=vHWfXSWJlvYbw4Wh8TsxENt9p3nZGmPbGEX12bzkdP8=)
 
 A personal brand is powerful. In the same manner, we recognize Apple whenever we see that stylish Apple logo, a personal brand can make you recognizable for other people.
 
@@ -114,12 +124,6 @@ Successful networking is based on openness, determination and empathy. You can b
 * A good networker is sociable and patient.
 * A good networker always has something to say and embodies a unique message.
 * A budding network is dependent on so-called super-connectors.
-
-
-
-```xml
-
-```
 
 
 
