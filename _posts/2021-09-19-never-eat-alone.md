@@ -3,13 +3,12 @@ date: 2021-09-19 13:31:30
 layout: post
 title: Never Eat Alone
 subtitle: And other secrets to success, one relationship at a time
-description: Learn how to network from the modern day “How to win friends and
-  influence people.”
+description: Learn how to network from the modern day.How to win friends and influence people.
 image: /assets/img/uploads/photo-1515169067868-5387ec356754.jpeg
 optimized_image: /assets/img/uploads/istockphoto-1125674445-170667a.jpeg
 category: work
 tags:
-  - self-help
+  - self
   - social network
 author: Jeff Ubayi
 paginate: true
