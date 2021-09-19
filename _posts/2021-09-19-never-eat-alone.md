@@ -117,6 +117,12 @@ Successful networking is based on openness, determination and empathy. You can b
 
 
 
+```xml
+
+```
+
+
+
 #### key quotes from Never Eat Alone
 
 * “Success in any field, but especially in business is about working with people, not against them.”
@@ -131,10 +137,11 @@ Successful networking is based on openness, determination and empathy. You can b
 * “The best way to become good at small talk is not to talk small at all.”
 
 
+
 <iframe
     width="640"
     height="480"
-    src="https://www.youtube.com/watch?v=YlCR4Y7CulU&t=4s"
+    src="https://www.youtube.com/embed/SeHhp6Oi3Is"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
